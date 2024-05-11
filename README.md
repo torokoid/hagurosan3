@@ -70,6 +70,10 @@ body::before {
 
 	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h3><span class="white">道の真っ正面、羽黒山に向かいます！</span></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ix8i1o47vSk?si=sz4z-NxV6fuH4JAT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h3><span class="white">家族連れは麓から登山道。登りは１時間コース！</span></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/09BTLdnrVkQ?si=9AZXPLRBycNaj3oK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h3><span class="white">真冬のようなすっきりした景色ではありませんが、山の上からの景色はやっぱり良いですね！</span></h3>
 <a href="20240511_033.JPG" data-lightbox="abc"><img src="20240511_033.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_034.JPG" data-lightbox="abc"><img src="20240511_034.JPG" alt="サンプル画像" width="900" /></a>
@@ -100,6 +104,8 @@ body::before {
 <a href="20240511_058.JPG" data-lightbox="abc"><img src="20240511_058.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_059.JPG" data-lightbox="abc"><img src="20240511_059.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_060.JPG" data-lightbox="abc"><img src="20240511_060.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">エンジン掛けて、下ります！</span></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bh6I3iYPAWs?si=rXjp_tLrxE92ICjq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h3><span class="white">羽黒山、下からの眺め。たまたまですが飛行機雲が撮れました！</span></h3>
 <a href="20240511_061.JPG" data-lightbox="abc"><img src="20240511_061.JPG" alt="サンプル画像" width="900" /></a>
 	
