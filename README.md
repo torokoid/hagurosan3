@@ -48,7 +48,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/park-s-flower/20240511_012.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/hagurosan3/20240511_057.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 </style>
