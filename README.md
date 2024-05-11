@@ -100,6 +100,7 @@ body::before {
 <a href="20240511_058.JPG" data-lightbox="abc"><img src="20240511_058.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_059.JPG" data-lightbox="abc"><img src="20240511_059.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_060.JPG" data-lightbox="abc"><img src="20240511_060.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">羽黒山、下からの眺め。アンテナが立っている付近が展望台。たまたまですが飛行機雲が撮れました！</span></h3>
 <a href="20240511_061.JPG" data-lightbox="abc"><img src="20240511_061.JPG" alt="サンプル画像" width="900" /></a>
 	
 <br><br><br><br><br><br><br><br><br>
