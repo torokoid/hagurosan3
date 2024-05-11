@@ -93,6 +93,7 @@ body::before {
 <a href="20240511_052.JPG" data-lightbox="abc"><img src="20240511_052.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_053.JPG" data-lightbox="abc"><img src="20240511_053.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_054.JPG" data-lightbox="abc"><img src="20240511_054.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">展望台から青森県の局長さんと交信できました。なんとAll-JA-CQRoom アナログ！</span></h3>
 <a href="20240511_055.JPG" data-lightbox="abc"><img src="20240511_055.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_056.JPG" data-lightbox="abc"><img src="20240511_056.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_057.JPG" data-lightbox="abc"><img src="20240511_057.JPG" alt="サンプル画像" width="900" /></a>
