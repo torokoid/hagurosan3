@@ -78,6 +78,7 @@ body::before {
 <a href="20240511_033.JPG" data-lightbox="abc"><img src="20240511_033.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_034.JPG" data-lightbox="abc"><img src="20240511_034.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_035.JPG" data-lightbox="abc"><img src="20240511_035.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">登ってくるバイクはこのタイプが多いですね。</span></h3>
 <a href="20240511_036.JPG" data-lightbox="abc"><img src="20240511_036.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_037.JPG" data-lightbox="abc"><img src="20240511_037.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_038.JPG" data-lightbox="abc"><img src="20240511_038.JPG" alt="サンプル画像" width="900" /></a>
@@ -89,16 +90,19 @@ body::before {
 <a href="20240511_044.JPG" data-lightbox="abc"><img src="20240511_044.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_045.JPG" data-lightbox="abc"><img src="20240511_045.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_046.JPG" data-lightbox="abc"><img src="20240511_046.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">東北道はガラガラですね〜</span></h3>
 <a href="20240511_047.JPG" data-lightbox="abc"><img src="20240511_047.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_048.JPG" data-lightbox="abc"><img src="20240511_048.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_049.JPG" data-lightbox="abc"><img src="20240511_049.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_050.JPG" data-lightbox="abc"><img src="20240511_050.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">緑色の新幹線が通過、この辺りだと200km/hか？</span></h3>
 <a href="20240511_051.JPG" data-lightbox="abc"><img src="20240511_051.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_052.JPG" data-lightbox="abc"><img src="20240511_052.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_053.JPG" data-lightbox="abc"><img src="20240511_053.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_054.JPG" data-lightbox="abc"><img src="20240511_054.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">展望台から青森県の局長さんと交信できました。なんとALLJA-CQ-ROOM アナログ！</span></h3>
 <a href="20240511_055.JPG" data-lightbox="abc"><img src="20240511_055.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">展望台横のお蕎麦屋さんからの眺めもなかなかのモノ！</span></h3>
 <a href="20240511_056.JPG" data-lightbox="abc"><img src="20240511_056.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_057.JPG" data-lightbox="abc"><img src="20240511_057.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_058.JPG" data-lightbox="abc"><img src="20240511_058.JPG" alt="サンプル画像" width="900" /></a>
