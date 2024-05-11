@@ -98,6 +98,7 @@ body::before {
 <h3><span class="white">緑色の新幹線が通過、この辺りだと200km/hか？</span></h3>
 <a href="20240511_051.JPG" data-lightbox="abc"><img src="20240511_051.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_052.JPG" data-lightbox="abc"><img src="20240511_052.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">白いドーム状の施設は、’23年国体をやった総合施設の中の競技場屋根です！</span></h3>
 <a href="20240511_053.JPG" data-lightbox="abc"><img src="20240511_053.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_054.JPG" data-lightbox="abc"><img src="20240511_054.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">展望台から青森県の局長さんと交信できました。なんとALLJA-CQ-ROOM アナログ！</span></h3>
