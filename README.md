@@ -85,6 +85,7 @@ body::before {
 <a href="20240511_039.JPG" data-lightbox="abc"><img src="20240511_039.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_040.JPG" data-lightbox="abc"><img src="20240511_040.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_041.JPG" data-lightbox="abc"><img src="20240511_041.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">同じタイプがもう一台来ました。</span></h3>
 <a href="20240511_042.JPG" data-lightbox="abc"><img src="20240511_042.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_043.JPG" data-lightbox="abc"><img src="20240511_043.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_044.JPG" data-lightbox="abc"><img src="20240511_044.JPG" alt="サンプル画像" width="900" /></a>
